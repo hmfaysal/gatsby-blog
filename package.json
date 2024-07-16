@@ -10,7 +10,6 @@
     "formik": "^2.2.9",
     "gatsby": "^4.2.0",
     "gatsby-plugin-feed": "^4.2.0",
-    "gatsby-plugin-google-analytics": "^4.2.0",
     "gatsby-plugin-image": "^2.2.0",
     "gatsby-plugin-lodash": "^5.2.0",
     "gatsby-plugin-mailchimp": "^5.2.2",
