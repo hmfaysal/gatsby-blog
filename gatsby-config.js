@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `Faysal's Weblog`,
     author: `Faysal`,
-    about: `Why settle for just one idealistic plan when you can recycle them all? Join me as I defy unproductive competition and strive to change the face of Electrical Engineering forever!`,
+    about: `Why settle for just one idealistic plan when you can recycle them all? Join me as I defy unproductive competition and strive to change the face of Electrical Engineering forever!!!`,
     description: `A Gatsby Blog`,
     siteUrl: `https://fays.al`,
   },
